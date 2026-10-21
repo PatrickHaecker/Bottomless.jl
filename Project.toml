@@ -1,0 +1,10 @@
+name = "Bottomless"
+uuid = "914678fc-f675-40b2-9870-8d800ae07edd"
+version = "0.1.0"
+authors = ["Patrick Häcker <pat_h@web.de>"]
+
+[workspace]
+projects = ["test"]
+
+[compat]
+julia = "1.10"
